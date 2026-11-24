@@ -1,7 +1,7 @@
-Thailand National Root Certification Authority
-Certificate Policy
-Version 5.1
-Certificate Policy Identifier (OID): 2.16.764.1.1.1
+#Thailand National Root Certification Authority
+#Certificate Policy
+#Version 5.1
+#Certificate Policy Identifier (OID): 2.16.764.1.1.1
 
 1	Introduction
 1.1	Overview
